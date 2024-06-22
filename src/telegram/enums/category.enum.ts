@@ -1,0 +1,10 @@
+export enum Category {
+  MEAT = 'MEAT',
+  VEGETARIAN = 'VEGETARIAN',
+  BAKERY = 'BAKERY',
+  SAUCES = 'SAUCES',
+  DRINKS = 'DRINKS',
+  FAST_FOOD = 'FAST_FOOD',
+  SPECIAL = 'SPECIAL',
+  ADDITIONAL = 'ADDITIONAL',
+}
